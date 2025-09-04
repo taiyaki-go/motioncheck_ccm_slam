@@ -12,4 +12,4 @@ cases it can introduce substantial degradation.
 - Motion Check demonstrated its effectiveness by reducing the maximum trajectory error by up to 81.52 cm and the root mean square error by up to 3.40 cm by using EuRoC dataset (MH01, MH02, MH03)
 
 **Changes from CCM-SLAM**
-The 56 Files in include/cslam and src are changed. We have not modified the content of communications between the server and agent.
+- The 56 Files in include/cslam and src are changed. We have not modified the content of communications between the server and agent.
